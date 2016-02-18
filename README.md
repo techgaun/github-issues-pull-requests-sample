@@ -13,3 +13,5 @@ You can put these three files in the root of your project or if you want a littl
 ### How they look
 
 ![New Issue](new_issue.jpg)
+
+![New Pull Request](new_pr.jpg)
