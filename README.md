@@ -18,4 +18,4 @@ You can put these three files in the root of your project or if you want a littl
 
 #### Pull Request
 
-![New Pull Request](new_pr.jpg)
+![Pull Request](new_pr.jpg)
